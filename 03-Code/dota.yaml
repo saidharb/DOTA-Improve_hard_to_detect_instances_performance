@@ -1,0 +1,20 @@
+names:
+  0: ship
+  1: storage-tank
+  2: baseball-diamond
+  3: tennis-court
+  4: basketball-court
+  5: ground-track-field
+  6: bridge
+  7: large-vehicle
+  8: small-vehicle
+  9: helicopter
+  10: swimming-pool
+  11: roundabout
+  12: soccer-ball-field
+  13: plane
+  14: harbor
+  15: container-crane
+path: /Users/saidharb/Documents/LocalDocuments/Deep Learning/Project/Group_04/Final_Project/04-Data/dota_yolo
+train: train/images
+val: val/images
