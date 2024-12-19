@@ -11,7 +11,7 @@ and paste hard to detect instances within the oversampled images. Our findings d
 <details>
   <summary style="font-size:140px">Guidelines</summary>
 
-The detailed explanation on how to prepare the dataset and run the code to recreate our results can be found in the readme file in the [Code](KORREKTUR) directory.
+The detailed explanation on how to prepare the dataset and run the code to recreate our results can be found in the readme file in the [Code]([KORREKTUR](https://github.com/saidharb/DOTA-Improve_hard_to_detect_instances_performance/tree/master/03-Code)) directory.
 
 </details>
 
