@@ -1,5 +1,7 @@
 # Final Project:  Improving object detection performance on hard to detect instances in DOTA
 
+![Alt text](htd.png)
+
 ## Content
 The goal of the final project is to improve object detection performance on hard to detect instances in the DOTA dataset. For that we will take the approaches of the paper [Augmentation for small object detection](https://arxiv.org/abs/1902.07296) and apply them. Therefore we will train three YOLOv5n models: One baseline model and two experiments. In the first experiment images containing hard to detect instances are oversampled in the dataset. In the second experiment hard to detect instances are copied and pasted within the oversampled images. Finally, both approaches will be compared to the baseline model which was trained on the original dataset and a conlusion is drawn. How to run the scripts is explained in detail in the [Code](https://github.com/saidharb/DOTA-Improve_hard_to_detect_instances_performance/tree/master/03-Code) directory and the [Final Report](https://github.com/saidharb/DOTA-Improve_hard_to_detect_instances_performance/blob/master/Final_Report.pdf) can be found in the main directory.
 
